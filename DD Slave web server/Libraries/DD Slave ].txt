@@ -1,0 +1,14 @@
+  DD Slave
+
+Bard tool 	     :	https://github.com/esp8266/arduino-esp8266fs-plugin/releases
+			(Configuration : SPIFFS)
+
+File data  & Sketch  :  https://randomnerdtutorials.com/install-esp8266-filesystem-uploader-arduino-ide/
+
+data (html) file     : 	defines web page and style '
+		       	store html file inside data folder,and in the sketck folder
+		   	 
+
+
+
+ 
