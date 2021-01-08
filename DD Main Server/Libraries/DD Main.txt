@@ -1,0 +1,13 @@
+  DD Manin
+
+Board tool	     :	https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/tag/1.0
+			(Configuration : SPIFFS)
+
+Library file 	     :	https://github.com/me-no-dev/AsyncTCP (Webserver)
+
+File data  & Sketch  :  https://randomnerdtutorials.com/install-esp32-filesystem-uploader-arduino-ide/
+
+data (html) file     : 	defines web page and style '
+		       	store html file inside data folder,and in the sketck folder
+		   	 
+
